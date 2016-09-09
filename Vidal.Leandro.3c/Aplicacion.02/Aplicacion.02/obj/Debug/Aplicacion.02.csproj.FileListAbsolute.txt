@@ -1,0 +1,9 @@
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.exe
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\bin\Debug\Aplicacion.02.pdb
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.csprojResolveAssemblyReference.cache
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion._02.Form1.resources
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion._02.Properties.Resources.resources
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.csproj.GenerateResource.Cache
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.exe
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.02\Aplicacion.02\obj\Debug\Aplicacion.02.pdb

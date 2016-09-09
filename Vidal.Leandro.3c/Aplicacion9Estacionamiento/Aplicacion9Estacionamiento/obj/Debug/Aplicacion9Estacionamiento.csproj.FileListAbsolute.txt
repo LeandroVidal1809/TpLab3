@@ -1,0 +1,11 @@
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\bin\Debug\Aplicacion9Estacionamiento.exe.config
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\bin\Debug\Aplicacion9Estacionamiento.exe
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\bin\Debug\Aplicacion9Estacionamiento.pdb
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.Properties.Resources.resources
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.csproj.GenerateResource.Cache
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.exe
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.pdb
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.AboutBox1.resources
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.FrmPrincipal.resources
+C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion9Estacionamiento\Aplicacion9Estacionamiento\obj\Debug\Aplicacion9Estacionamiento.FrmGestionAutomovil.resources
