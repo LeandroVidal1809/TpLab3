@@ -76,6 +76,7 @@
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(159, 20);
             this.salirToolStripMenuItem.Text = "Salir de Adm. de Vehiculos";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // contextMenuStrip1
             // 

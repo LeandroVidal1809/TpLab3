@@ -26,5 +26,10 @@ namespace Aplicacion9Estacionamiento
         {
 
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

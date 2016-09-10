@@ -7,3 +7,12 @@ C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\b
 C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\bin\Debug\Aplicacion.01.pdb
 C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.exe
 C:\Users\Fa\Desktop\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.pdb
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\bin\Debug\Aplicacion.01.exe.config
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.exe
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.pdb
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\bin\Debug\Aplicacion.01.exe
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\bin\Debug\Aplicacion.01.pdb
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion._01.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion._01.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\lab3\Vidal.Leandro.3c\Aplicacion.01\Aplicacion.01\Aplicacion.01\obj\Debug\Aplicacion.01.csproj.GenerateResource.Cache

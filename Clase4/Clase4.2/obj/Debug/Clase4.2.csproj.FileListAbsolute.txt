@@ -1,0 +1,9 @@
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\bin\Debug\Clase4.2.exe.config
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\bin\Debug\Clase4.2.exe
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\bin\Debug\Clase4.2.pdb
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4.2.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4._2.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4._2.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4.2.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4.2.exe
+C:\Users\alumno.LAB4PC\Desktop\lab3\Clase4\Clase4.2\obj\Debug\Clase4.2.pdb

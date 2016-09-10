@@ -1,0 +1,6 @@
+los eventos se lanzas desde cualquier clase, creandro delegados
+el evento y el delegado deben existir siempre, la llamada a funcion es segun la necesidad
+para capturar un evento d eun control la firma debe tener (object, event args)
+
+f7 te lleva al codigo
+

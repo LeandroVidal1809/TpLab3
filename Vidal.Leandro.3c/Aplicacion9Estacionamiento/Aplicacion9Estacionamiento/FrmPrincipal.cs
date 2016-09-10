@@ -47,5 +47,21 @@ namespace Aplicacion9Estacionamiento
                 FrmGestion.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;//Estilo del borde del formulario
             }
         }
+
+        private void salirDelSistemaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult resultado;
+            resultado = MessageBox.Show("Realmente Desea Salir?", "Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (resultado == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
+
+        }
     }
-}
